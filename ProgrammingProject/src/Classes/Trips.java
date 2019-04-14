@@ -1,4 +1,4 @@
-
+package Classes;
 public class Trips {
 	
 	//for add a trip feature in the manager menu

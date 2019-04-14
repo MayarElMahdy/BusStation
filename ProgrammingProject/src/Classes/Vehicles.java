@@ -1,4 +1,4 @@
-
+package Classes;
 public abstract class Vehicles implements VehiclesInterface {
 	
 	int numberOfSeats;

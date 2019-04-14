@@ -1,4 +1,4 @@
-
+package Classes;
 public class Reservations {
 	
 	String Client;//

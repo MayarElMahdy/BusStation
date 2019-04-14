@@ -1,18 +1,18 @@
-
-public class MiniBus extends Vehicles {
+package Classes;
+public class Cars extends Vehicles{
+	
 
 	String name;
-	int vehicleNumber;
-	int totalSeats ;
-	public MiniBus(String name,int vehicleNumber, int numberOfSeats, int totalSeats , int numberOfVehicles) {
+	String brand;
+	public Cars(String name,int numberOfSeats,int numberOfVehicles)
+	{
 		super(numberOfSeats, numberOfVehicles);
-		this.name = name;
-		this.vehicleNumber = vehicleNumber;
-		this.totalSeats = totalSeats ;
+		this.numberOfVehicles = numberOfVehicles;
+		this.name=name;
 		
 	}
 
-	int maxSeats = 12;
+
 	@Override
 	public void increaseTheVehicles() {
 		// TODO Auto-generated method stub
@@ -23,13 +23,14 @@ public class MiniBus extends Vehicles {
 	@Override
 	public void decreaseNumberOfSeats() {
 		// TODO Auto-generated method stub
-		numberOfSeats --;
+		numberOfSeats--;
 		
 	}
 
 	@Override
 	public void decreaseNumberOfVehicles() {
 		// TODO Auto-generated method stub
+		numberOfVehicles--;
 	}
 	
 
