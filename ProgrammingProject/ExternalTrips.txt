@@ -1,0 +1,10 @@
+London,20000.0
+Amsterdam,40000.0
+Moscow,25000.0
+Lebanon,5000.0
+Jordan,6000.0
+Turkey,3000.0
+Italy,6500.0
+Greece,8000.0
+Spain,7000.0
+Morrocow,15000.0

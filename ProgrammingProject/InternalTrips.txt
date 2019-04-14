@@ -1,0 +1,12 @@
+Cairo,200.0
+Alexandria,300.0
+Aswan,600.0
+Luxor,500.0
+Sharm EL Sheikh,900.0
+alex,300.0
+Porto Marina,200.0
+Porto So5na,300.0
+Miami,300.0
+Gleem,30.0
+Montaza,70.0
+gleem,90.0

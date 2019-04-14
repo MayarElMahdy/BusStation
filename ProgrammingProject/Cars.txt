@@ -1,0 +1,7 @@
+Jeely,1,6
+Ferrari,1,5
+Toyota,1,12
+Hyundai,1,17
+Mercedes,1,6
+Renault,1,8
+BMW,1,10

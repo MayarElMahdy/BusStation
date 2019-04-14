@@ -1,0 +1,10 @@
+MiniBus,1,5,12,1
+MiniBus,2,1,12,1
+MiniBus,3,12,12,1
+MiniBus,4,5,12,1
+MiniBus,5,2,12,1
+MiniBus,6,0,12,1
+MiniBus,7,7,12,1
+MiniBus,8,9,12,1
+MiniBus,9,1,12,1
+MiniBus,10,2,12,1
